@@ -1,6 +1,3 @@
-<p align="center">
-   <img width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRU8RPRMXEY7K1Vmeq2oTVWKb5304O1EPVpqA&usqp=CAU"/>
-</p>
 <h3 align="center"> This repository contains solution of Data Structures and Algorithms problems solved by me on GeeksforGeeks</h3>
 
 <p >
